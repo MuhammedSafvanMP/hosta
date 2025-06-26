@@ -30,7 +30,7 @@ app.use(
       process.env.UserSide_URL as string,
       process.env.AmbulanceSide_URL as string,
       process.env.HospitalSide_URL as string,
-      "http://127.0.0.1:5500"
+      "https://thasleem-mk.github.io/playstoreSupport"
     ],
     credentials: true,
   })
